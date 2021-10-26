@@ -8,12 +8,12 @@ brew install mas
 
 # 3. Install basics tools from Brewfile
 echo "Installing basic tools"
-brew bundle --file ./basics.Brewfile
+curl -fsSL https://raw.githubusercontent.com/pragtics/machine-setup-mac/master/basics.Brewfile | brew bundle --file=/dev/stdin
 
 # 3. Install development tools from Brewfile
 read -p "Do you want to install additional development tools? (y/n) " -n 1 -r
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
 	echo "Installing development tools"
-    brew bundle --file ./development.Brewfile
+    curl -fsSL https://raw.githubusercontent.com/pragtics/machine-setup-mac/master/development.Brewfile | brew bundle --file=/dev/stdin
 fi
