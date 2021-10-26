@@ -1,0 +1,22 @@
+brew "maven"
+brew "git"
+brew "git-lfs"
+brew "node"
+brew "python"
+brew "pipenv"
+brew "docker"
+brew "terraform"
+brew "ansible"
+brew "terraform-inventory"
+
+cask "java"
+cask "postman"
+cask "wireshark"
+cask "staruml"
+cask "jetbrains-toolbox"
+cask "camunda-modeler"
+cask "virtualbox"
+cask "virtualbox-extension-pack"
+cask "docker"
+
+mas "Xcode", id: 497799835
