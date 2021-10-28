@@ -9,7 +9,7 @@ brew "terraform"
 brew "ansible"
 brew "terraform-inventory"
 
-cask "java"
+cask "adoptopenjdk8"
 cask "postman"
 cask "wireshark"
 cask "staruml"
