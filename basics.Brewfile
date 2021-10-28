@@ -18,3 +18,4 @@ mas "Numbers", id: 409203825
 mas "Keynote", id:409183694
 mas "Spark", id: 1176895641
 mas "Todoist", id: 585829637
+mas "Fantastical", id: 975937182
