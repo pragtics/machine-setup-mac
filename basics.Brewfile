@@ -10,6 +10,7 @@ cask "google-drive-file-stream"
 cask "google-chrome"
 cask "caffeine"
 cask "slack"
+cask "slite"
 
 mas "The Unarchiver", id: 425424353
 mas "1Password 7", id: 1333542190
