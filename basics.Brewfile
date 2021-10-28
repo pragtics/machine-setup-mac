@@ -11,6 +11,7 @@ cask "google-chrome"
 cask "caffeine"
 cask "slack"
 cask "slite"
+cask "clockify"
 
 mas "The Unarchiver", id: 425424353
 mas "1Password 7", id: 1333542190
