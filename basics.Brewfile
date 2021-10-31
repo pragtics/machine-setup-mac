@@ -6,7 +6,7 @@ tap "homebrew/cask-drivers"
 
 brew "zsh"
 
-cask "google-drive-file-stream"
+cask "google-drive"
 cask "google-chrome"
 cask "caffeine"
 cask "slack"
