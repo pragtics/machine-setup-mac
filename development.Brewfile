@@ -1,7 +1,7 @@
 brew "maven"
 brew "git"
 brew "git-lfs"
-brew "node"
+brew "node@16"
 brew "python"
 brew "pipenv"
 brew "docker"
