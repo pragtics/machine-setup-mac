@@ -17,6 +17,8 @@ cask "the-unarchiver"
 cask "todoist"
 cask "fantastical"
 cask "1password"
+cask "monitorcontrol"
+cask "languagetool"
 
 mas "Pages", id: 409201541
 mas "Numbers", id: 409203825
