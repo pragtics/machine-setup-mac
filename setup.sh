@@ -19,7 +19,7 @@ then
 fi
 
 # 5. Install personal tools from Brewfile
-read -p "Do you want to install additional personal tools from personal/$USER? (y/n) " -n 1 -r
+read -p "\nDo you want to install additional personal tools from personal/$USER? (y/n) " -n 1 -r
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
     echo "Installing personal tools"
