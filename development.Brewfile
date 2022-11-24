@@ -12,7 +12,7 @@ brew "terraform-inventory"
 brew "awscli"
 
 cask "firefox"
-cask "adoptopenjdk8"
+cask "temurin"
 cask "postman"
 cask "wireshark"
 cask "staruml"
